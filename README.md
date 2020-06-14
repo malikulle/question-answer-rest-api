@@ -1,4 +1,3 @@
-This project is still being developed — PRs, Contributions and Issues are all welcome!
 
 # Getting started
 
@@ -13,7 +12,7 @@ To get the Node server running locally:
   * Set `SMTP_EMAIL=<YOUR_GMAIL_EMAIL>`
   * Set `SMTP_PASS=<YOUR_GMAIL_PASSWORD>`
 - `node dummy-generator.js --import` to load dummy data to database
-- `npm run dev` to start the local server
+- `npm run serve` to start the local server
 
 # Code Overview
 

@@ -213,7 +213,7 @@ Note : This api is still being developed. Feel free to contribute this project.
 #### Database
 
 - Middlewares That Check Entities Exist With Given Ids
-  * checkQuestionAndAnswerExist
+  * checkAnswerExist
   * checkQuestionExist
   * checkUserExist
 
